@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+    background-image: url(bg.jpeg);
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    margin: 2rem;
+    border: 10px solid black;
+}
+
+.btncontainer {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background-color: red;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.flash {
+    background-color: white;
+}
+
+.silver {
+    background-color: black;
+}
+
+h1, h2 {
+    
+    color: white;
+}
+
